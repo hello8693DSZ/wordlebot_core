@@ -2,6 +2,14 @@
 
 Python开发文档：
 
-新建个空文件夹，
+要求使用Ubuntu系统。
 
-文档先咕一会。
+新建个空文件夹，执行以下命令：
+
+```sh
+bash <(curl https://gitee.com/hello8693/wordle_downloader/raw/master/installer.sh)
+```
+
+然后将demo进行拓展即可。
+
+其他文档先咕一会。
