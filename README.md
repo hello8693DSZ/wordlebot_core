@@ -2,14 +2,8 @@
 
 Python开发文档：
 
-要求使用Ubuntu系统。
+clone下来之后打开python_wordle文件夹，打开main.py，将主要部分拷走改装成qq机器人即可。注意没有群隔离，请自行编写隔离部分（欢迎pr）。
 
-新建个空文件夹，执行以下命令：
 
-```sh
-bash <(curl https://gitee.com/hello8693/wordle_downloader/raw/master/installer.sh)
-```
 
-然后将demo进行拓展即可。
-
-其他文档先咕一会。
+C++只包含最根本的算法，可以根据c++改编其他语言的代码，欢迎大家pr
